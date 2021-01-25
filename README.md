@@ -7,7 +7,9 @@ soon
 ## Short Info
 SmartFlex is a Framework Works with Flex and Flexbox (CSS Only). Created by ArsenTech
 ## Follow
-<a href="https://www.youtube.com/channel/UCrtH0g6NE8tW5VIEgDySYtg" target="_blank"><img src="https://img.shields.io/badge/ArsenTech%20-%231DD1A1.svg?&style=for-the-badge&logo=YouTube&logoColor=FF0000"/></a>
+<a href="https://www.youtube.com/channel/UCrtH0g6NE8tW5VIEgDySYtg" target="_blank"><img src="https://img.shields.io/badge/ArsenTech%20-%231DD1A1.svg?&style=for-the-badge&logo=YouTube&logoColor=FF0000" /></a>
+<a href="https://scratch.mit.edu/users/ArsenTech/" target="_blank"><img src="https://img.shields.io/badge/-ArsenTech-1DD1A1?style=for-the-badge&logo=scratch&logoColor=orange"></a>
+<a href="https://www.reddit.com/user/ArsenTech" target="_blank"><img src="https://img.shields.io/badge/-ArsenTech-1DD1A1?style=for-the-badge&logo=reddit&logoColor=FF4500"></a>
 <a href="https://codepen.io/ArsenJS" target="_blank"><img src="https://img.shields.io/badge/-ArsenTech-1DD1A1?style=for-the-badge&logo=codepen&logoColor=black"></a>
 <a href="https://github.com/ArsenTech" target="_blank"><img src="https://img.shields.io/badge/-ArsenTech-1DD1A1?style=for-the-badge&amp;logo=github&amp;logoColor=24292e"></a>
 > GitHub [Smart-Flex-Framework](https://github.com/Smart-Flex-Framework) &nbsp;&middot;&nbsp;
