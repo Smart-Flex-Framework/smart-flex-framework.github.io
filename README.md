@@ -16,4 +16,4 @@ SmartFlex is a Framework Works with Flex and Flexbox (CSS Only). Created by Arse
 <a href="https://github.com/ArsenTech" target="_blank"><img src="https://img.shields.io/badge/-ArsenTech-1DD1A1?style=for-the-badge&amp;logo=github&amp;logoColor=24292e"></a>
 > GitHub [Smart-Flex-Framework](https://github.com/Smart-Flex-Framework) &nbsp;&middot;&nbsp;
 > [SmartFlex's Website](https://smart-flex-framework.github.io) &nbsp;&middot;&nbsp;
-> [Subreddit](https://www.reddit.com/r/ArsenTech/)
+> [ArsenTech's Subreddit](https://www.reddit.com/r/ArsenTech/)
