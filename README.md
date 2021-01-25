@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/77837204?s=200&v=4" width="100">
 
 # SmartFlex's Website
-Welcome to SmartFlex's Website. If You want to Report Bug, or Request Feature, Write an Issue (or Pull Request) and Owner will be in touch with you soon.
+Welcome to SmartFlex's Website. If You want to Report Bug, or Request Feature, Write an Issue (or Pull Request) and Owner of Organization (ArsenTech) will be in touch with you soon.
 ## Website Speed (Tested)
 Google PageSpeed Insights Score: **95** on 📱, **99** on 🖥 <br>
 Pingdom Website Speed Test Score: ![A](https://user-images.githubusercontent.com/62609185/105687639-20d7dd80-5f12-11eb-9385-a217c3103eb2.PNG) **94** <br>
